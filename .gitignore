@@ -1,2 +1,5 @@
 task/
 .scfnn-venv/
+lstm-language-modelling/
+architecture.png
+9.2D - LSTM for Language Modeling.ipynb
